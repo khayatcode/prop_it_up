@@ -5,7 +5,7 @@ const PersonCard = (props) => {
     return (
         <div>
             <h1>{firstName}, {lastName}</h1>
-            <p>Age: {age}</p>
+            <p>AGE: {age}</p>
             <p>Hair color: {hairColor}</p>
         </div>
     )
